@@ -9,4 +9,4 @@
 
 #### Demo
 
-![alt text](https://github.com/hieutran106/python-searchengine/blob/master/public/capture.png?raw=true)
+![alt text](https://github.com/hieutran106/python-searchengine/blob/main/public/capture.png?raw=true)
